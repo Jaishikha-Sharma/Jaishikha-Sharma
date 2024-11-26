@@ -38,7 +38,7 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 ### 1. [Project Name](https://your-project-link.com)
 - **Description**: A brief description of the project. For example, "A full-stack e-commerce application built with MERN stack."
 - **Key Features**:
-  - Feature 1
+  - createand update project details here
   - Feature 2
   - Feature 3
 
@@ -77,10 +77,10 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to chat about tech! I'm always open to new opportunities and challenges.
 
-- ✉️ [Email](mailto:your-email@example.com)
+- ✉️ [Email](mailto: jaishikhasharma05@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma)
-- 🧑‍💻 [GitHub](https://github.com/jaishikha-sharma)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
+- 🧑‍💻 [GitHub](https://github.com/Jaishikha-Sharma)
+<!-- - 🐦 [Twitter](https://twitter.com/your-twitter-handle) -->
 
 ---
 
