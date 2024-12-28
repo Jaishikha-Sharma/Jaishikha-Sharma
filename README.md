@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 - 🌱 I’m continuously learning and exploring new technologies like **GraphQL, Docker, TypeScript**, and **AWS**.
 - 💼 I have experience building scalable applications for various industries, including e-commerce, social media platforms, and content management systems.
 - 👯 I’m looking to collaborate on open-source projects and contribute to the web development community.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) or [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma)
+- 📫 How to reach me: [Email](mailto:jaishikhasharma013@gmail.com or [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma)
 
 ## 🛠️ Technologies & Tools
 
