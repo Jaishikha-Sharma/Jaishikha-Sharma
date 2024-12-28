@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 - 🌱 I’m continuously learning and exploring new technologies like **GraphQL, Docker, TypeScript**, and **AWS**.
 - 💼 I have experience building scalable applications for various industries, including e-commerce, social media platforms, and content management systems.
 - 👯 I’m looking to collaborate on open-source projects and contribute to the web development community.
-- 📫 How to reach me: [Email](mailto:jaishikhasharma013@gmail.com or [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma)
+- 📫 How to reach me: [Email](mailto:jaishikhasharma013@gmail.com or [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma-aa2211329/)
 
 ## 🛠️ Technologies & Tools
 
@@ -42,20 +42,6 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
   - Feature 2
   - Feature 3
 
-### 2. [Project Name](https://your-project-link.com)
-- **Description**: A brief description of the project. For example, "A personal portfolio site showcasing my skills and projects."
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
-### 3. [Project Name](https://your-project-link.com)
-- **Description**: A brief description of the project. For example, "A social media app with real-time messaging built using MERN stack."
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
 ---
 
 ## 💡 What I’m Currently Learning
@@ -77,10 +63,9 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to chat about tech! I'm always open to new opportunities and challenges.
 
-- ✉️ [Email](mailto: jaishikhasharma05@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma)
+- ✉️ [Email](mailto: jaishikhasharma013@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jaishikha-sharma-aa2211329/)
 - 🧑‍💻 [GitHub](https://github.com/Jaishikha-Sharma)
-<!-- - 🐦 [Twitter](https://twitter.com/your-twitter-handle) -->
 
 ---
 
