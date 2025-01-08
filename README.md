@@ -35,12 +35,14 @@ Welcome to my GitHub profile! 👋 I'm **Jaishikha Sharma**, a passionate and de
 
 ## 🌐 Projects
 
-### 1. [Project Name](https://your-project-link.com)
-- **Description**: A brief description of the project. For example, "A full-stack e-commerce application built with MERN stack."
+### 1. [Portfolio Website](https://your-project-link.com)
+- **Description**:"Personal portfolio website built with React and JavaScript, highlighting my development skills, projects, and professional experience. The responsive design ensures seamless user interaction across devices. Hosted on GitHub for easy access and continuous updates"
 - **Key Features**:
-  - createand update project details here
-  - Feature 2
-  - Feature 3
+  - Project Showcase: Displays a curated selection of projects, complete with descriptions, technologies used, and links to live demos or code repositories.
+  - About Me Section: A personalized introduction highlighting skills, experience, and career goals.
+  - Contact Form: Allows visitors to get in touch with you directly through a built-in contact form.
+  - Easy Navigation: Intuitive navigation with a fixed header and smooth scrolling for quick access to key sections.
+  - GitHub Integration: Direct links to my GitHub repositories for easy access to code and contributions.
 
 ---
 
